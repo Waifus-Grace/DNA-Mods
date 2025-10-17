@@ -1,0 +1,8 @@
+*.7z
+*.txt
+**/.oldversions/
+**/*.png
+**/*.7z
+**/*.7z
+!**/Plugins.7z
+!**/Russian_TQGrace.7z
