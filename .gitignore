@@ -6,3 +6,4 @@
 **/*.7z
 !**/Plugins.7z
 !**/Russian_DNA.7z
+!**/Russian_DNA_Epic.7z
